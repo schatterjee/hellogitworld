@@ -1,5 +1,0 @@
-This is my first line.
-
-Adding a new second line.
-
-This is my last line
